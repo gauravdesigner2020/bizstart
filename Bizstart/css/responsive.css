@@ -1,0 +1,309 @@
+
+/********* Small devices (landscape phones, 576px and up)*******/
+
+@media (max-width: 576px) {
+
+	.navbar{
+		display: block !important;
+	}
+	.topMnu1 {
+	    width: 100%;
+	}
+	.bnrTXt h1 {
+	    font-size: 18px;
+	}
+	.mainNav {
+	    margin: 0px;
+	    padding: 0px;
+	}
+	.logBTn{
+		display: block;
+		padding-left: 20px;
+	}
+	.indBnr{
+		max-height: 250px;
+		min-height: 250px;
+	}
+	.abtBnnr{
+		height: 130px;
+	}
+	.blgBnnr{
+		height: 130px;
+	}
+	.serBnnr{
+		height: 130px;
+	}
+	.catWdth{
+		width: 100%;
+		display: flex;
+	    justify-content: space-around;
+	}
+
+	.caIMGtx {
+	    margin-top: 20px;
+	    flex-direction: column;
+	}
+	.bnrTXt{
+		width: 100%;
+	}
+	.forWith span {
+	    font-size: 12px;
+	}
+	.forWith {
+	    width: 95%;
+	    margin: auto;
+	}
+	.fotrDiv {
+	    width: 90%;
+	}
+	.bnrTXt {
+	    font-size: 14px;
+	}
+	
+	.feTxtBox {
+	    margin-bottom: 20px;
+	}
+	.feTxtBox h2{
+		font-size: 29px;
+	}
+	.col-md-6.feTxtBox p {
+	    font-size: 20px;
+	}
+	.fetureHead .head h2{
+		font-size: 25px;
+	}
+	/*.fetureHead {
+	    flex-direction: column;
+	}*/
+	.lastFboX {
+	    padding: 20px;
+	}
+	
+	.slidr button.owl-prev span, .slidr button.owl-next span {
+	    padding: 0px;
+	}
+	.feturSlider button.owl-prev span, .feturSlider button.owl-next span
+	{
+		margin-left: 18px;
+	}
+	.contOne{
+		width: 90%;
+	}
+	.contOne h2 {
+	    font-size: 25px;
+	}	
+	.inrCont {
+	    width: 90%;
+	}
+	.inThreCont {
+	    width: 90%;
+	}
+	.abtvio{
+		width: 100%;
+	}
+	.abtvio .vidoAbt{
+		margin-top: 15px;
+	}
+	.blgBnnr .blgHead{
+		width: 100%;
+		padding: 10px;
+	}
+	.blogCont{
+		width: 100%;
+	}
+	.blgColm {
+	    padding: 0px 30px;
+	}
+	.serBnnr .serHead{
+		width: 100%;
+		padding: 10px;
+	}
+	.serConTxt {
+	    width: 100%;
+	    padding: 10px;
+	}
+	.serCont{
+		padding-top: 2px;
+	}
+	.blogImg img {
+	    width: 100%;
+	    height: 200px;
+	}
+	.headCaT{
+		margin: 0px;
+	}
+	
+	.fetSliImg {
+	    max-height: 200px;
+	    min-height: 200px;
+	}
+	.fetSliImg img {
+	    width: 100%;
+	    height: 200px;
+	}
+	.bolgDtal .detPage{
+		width: 100%;
+		padding: 20px;
+	}
+	.blgINPut {
+	    margin-bottom: 20px;
+	}
+	.postIMg .imgesss {
+	    padding-top: 20px;
+	}
+	.blDediv1 {
+	    padding: 10px;
+	}
+	.priBnnr {
+	    height: 130px;
+	}
+	.priceBoxess {
+	    width: 100%;
+	}
+	.priceBox.pricBox2 {
+	    transform: translate(0px);
+	    margin-top: 20px;
+    	margin-bottom: 20px;
+	}
+	.helpContent {
+	    width: 100%;
+	    padding: 15px;
+	}
+	.bnrTXt p {
+	    font-size: 14px;
+	}
+	.col-md-2.logBTn {
+	    position: absolute;
+	    right: 18%;
+	    top: 22px;
+	    width: auto;
+	}
+	.inFetur{
+		padding: 10px;
+    	width: 100%;
+	}
+	.catHead h2 {
+	    padding-top: 10px;
+	}
+	header.row.mainHeader {
+	     padding-bottom: 1px; 
+	}
+	.serCont {
+	    padding-bottom: 50px;
+	}
+	.priceCont {
+	    padding-top: 50px;
+	}
+	.logPAge {
+	    padding-top: 40px;
+	    padding-bottom: 10px;
+	}
+	.indBnr .bnrTXt{
+		width: 100%;
+	}
+	.innVative{
+		width: 100%;
+	}
+	.innBoxx2 {
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+	}
+	.estabTemplt {
+	    width: 100%;
+	    padding: 15px;
+	}
+	.estabIMg {
+	     width: 100%; 
+	}
+	.bolgDtal {
+	    padding-top: 1px;
+	}
+	
+}
+
+/******* Medium devices (tablets, 768px and up)***/
+
+@media (max-width: 768px) {
+	.topMnu1 {
+	    width: 100%;
+	}
+	.mainNav{
+		width: 100%;
+	}
+	.catWdth{
+		width: 100%;
+	}
+	
+	.slidr button.owl-prev span, .slidr button.owl-next span {
+	    padding: 0px;
+	}
+	.feTxtBox h2 {
+	    font-size: 32px;
+	}
+	.col-md-6.feTxtBox p {
+	    font-size: 21px;
+	}
+	.blogCont {
+	    width: 100%;
+	}
+	.serPara {
+	    padding: 0px 15px;
+	}
+	.serPara a{
+		padding: 6px 20px;
+	}
+	.bolgDtal .detPage{
+		width: 100%;
+		padding: 20px;
+	}
+	.priceBoxess {
+	    width: 100% !important;
+	    padding: 20px;
+	}
+	.priceBox {
+	    text-align: center;
+	    max-height: 450px;
+	    min-height: 450px;
+	}
+	.priceBox.pricBox2 {
+	    min-height: 500px;
+	    max-height: 500px;
+	}
+	.priceCont {
+	    padding-top: 50px;
+	}
+	.col-md-2.logBTn {
+	    position: absolute;
+	    right: 18%;
+	    top: 22px;
+	    width: auto;
+	}
+
+}
+
+/****** Large devices (desktops, 992px and up)****/
+
+@media (min-width: 992px) {
+	
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1300px) {
+	.topMnu1 {
+	    width: 70%;
+	    margin: auto;
+	}
+	.indBnr {
+	    height: 520px;
+	}
+	.bnrTXt h1 {
+	    font-size: 27px;
+	}
+	.catHead h2 {
+	    font-size: 27px;
+	}
+	.bnrTXt p {
+	    font-size: 21px;
+	}
+
+}
